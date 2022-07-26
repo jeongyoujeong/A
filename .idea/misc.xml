@@ -3,9 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
-        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_register.xml" value="0.21510416666666668" />
-        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_second.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/background_radius.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/background_radius_pink.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/bookmark.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/ic_baseline_alarm_24.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/ic_baseline_reorder_24.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/store.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/talk.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/drawable/tip.xml" value="0.1" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_register.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_second.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_setting.xml" value="0.240625" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_alarm.xml" value="0.215625" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_book.xml" value="0.11158798283261803" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_store.xml" value="0.11158798283261803" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_talk.xml" value="0.22" />
+        <entry key="..\:/Users/happy_l84zvxz/AndroidStudioProjects/study1/app/src/main/res/layout/fragment_tip.xml" value="0.1" />
       </map>
     </option>
   </component>
